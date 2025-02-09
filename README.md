@@ -9,14 +9,18 @@ Linux adalah OS open-source dengan berbagai distro. Linux Mint adalah sistem ope
 ## 1. Tampilan Desktop Windows 11 dan Linux Mint
 ## Windows 11
 
+![Screenshot 2025-02-09 110041](https://github.com/user-attachments/assets/2be798cc-ba31-41ea-aa5d-e1654175a798)
+
 Tampilan desktop dari windows menampilkan desain yang modern dan penuh warna dengan taskbar yang terpusat dan ikon yang besar dan modern. Efek transparansi dan desain minimalis memberikan tampilan yang elegan dan futuristik. 
 
 ## Linux Mint
+![Screenshot 2025-02-09 111931](https://github.com/user-attachments/assets/aaa92228-d678-4759-a5db-7563dd3267e5)
 
-Sementara Linux Mint lebih klasik dan sederhana, cocok bagi pengguna yang menginginkan tampilan bersih dan ringan.
+Sementara tampilan dekstop dari Linux Mint lebih klasik dan sederhana, cocok bagi pengguna yang menginginkan tampilan bersih dan ringan.
 
 ## 2. Tampilan Menu Windows 11 dan Linux Mint
 ## Windows 11
+![Screenshot 2025-02-09 114912](https://github.com/user-attachments/assets/df2a4bbe-949f-4228-8344-b675cd1f4cea)
 
 - Menu berbentuk minimalis dan modern dengan tampilan yang bersih.
 - Ikon aplikasi tersusun dalam grid tanpa kategori terpisah.
@@ -24,6 +28,7 @@ Sementara Linux Mint lebih klasik dan sederhana, cocok bagi pengguna yang mengin
 - Dominasi warna pastel dengan desain yang lebih estetis.
 
 ## Linux Mint
+![Screenshot 2025-02-09 115004](https://github.com/user-attachments/assets/b54c1f3d-f52a-453b-936d-3527c0eeed2f)
 
 - Menu klasik dengan tampilan lebih fungsional dan berorientasi kategori.
 - Aplikasi dikelompokkan dalam kategori seperti "Accessories", "Graphics", "Internet", dll.
